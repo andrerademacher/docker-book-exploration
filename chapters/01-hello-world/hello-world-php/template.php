@@ -7,7 +7,7 @@
 <body>
     <h1>hello world: apache/php</h1>
     <p>
-        <span>time: <?= $date; ?></span><br />
+        <span>time: <?= $time; ?></span><br />
         <span>load: <?= $load; ?></span>
     </p>
 </body>
